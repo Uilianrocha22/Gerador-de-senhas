@@ -15,8 +15,8 @@ body {
 }
 
 .app {
-  /* background-color: rgba(15, 31, 70, 0.247); */
-  background-color: blue;
+  background-color: rgba(15, 31, 70, 0.247);
+
   border-radius: 1rem;
   box-shadow: 6px 6px 10px -4px rgba(0, 0, 0, 0.204);
   padding: 1rem 2rem;
